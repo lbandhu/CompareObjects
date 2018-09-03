@@ -12,7 +12,7 @@ Compare object by overriding Equals method
 
  3. Solution is to override the equals method provided in the Object.class
 
- 4.) Steps to override
+ 4. Steps to override
       - Check instance
       - Cast object class to Flight.
       - Set the equal criteria.
